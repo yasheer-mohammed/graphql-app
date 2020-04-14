@@ -1,0 +1,103 @@
+# Logfile created on 2020-02-05 13:49:17 +0530 by logger.rb/66358
+[02/05/20 13:49:17 +0530 viveck-ThinkPad-E470 (7449)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/05/20 13:49:17 +0530 viveck-ThinkPad-E470 (7449)] INFO : Scout Agent [2.6.6] Initialized
+[02/05/20 13:49:17 +0530 viveck-ThinkPad-E470 (7449)] INFO : Not Loading Instruments
+[02/05/20 13:49:17 +0530 viveck-ThinkPad-E470 (7449)] INFO : Scout Agent [2.6.6] Installed
+[02/05/20 13:49:17 +0530 viveck-ThinkPad-E470 (7449)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/05/20 13:49:17 +0530 viveck-ThinkPad-E470 (7449)] INFO : Deferring agent start. Standing by for first request
+[02/05/20 13:50:20 +0530 viveck-ThinkPad-E470 (7804)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/05/20 13:50:20 +0530 viveck-ThinkPad-E470 (7804)] INFO : Scout Agent [2.6.6] Initialized
+[02/05/20 13:50:20 +0530 viveck-ThinkPad-E470 (7804)] INFO : Not Loading Instruments
+[02/05/20 13:50:20 +0530 viveck-ThinkPad-E470 (7804)] INFO : Scout Agent [2.6.6] Installed
+[02/05/20 13:50:20 +0530 viveck-ThinkPad-E470 (7804)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/05/20 13:50:20 +0530 viveck-ThinkPad-E470 (7804)] INFO : Deferring agent start. Standing by for first request
+[02/05/20 13:59:21 +0530 viveck-ThinkPad-E470 (12828)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/05/20 13:59:21 +0530 viveck-ThinkPad-E470 (12828)] INFO : Scout Agent [2.6.6] Initialized
+[02/05/20 13:59:21 +0530 viveck-ThinkPad-E470 (12828)] INFO : Not Loading Instruments
+[02/05/20 13:59:21 +0530 viveck-ThinkPad-E470 (12828)] INFO : Scout Agent [2.6.6] Installed
+[02/05/20 13:59:21 +0530 viveck-ThinkPad-E470 (12828)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/05/20 13:59:21 +0530 viveck-ThinkPad-E470 (12828)] INFO : Deferring agent start. Standing by for first request
+[02/05/20 14:09:26 +0530 viveck-ThinkPad-E470 (17316)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/05/20 14:09:26 +0530 viveck-ThinkPad-E470 (17316)] INFO : Scout Agent [2.6.6] Initialized
+[02/05/20 14:09:26 +0530 viveck-ThinkPad-E470 (17316)] INFO : Not Loading Instruments
+[02/05/20 14:09:26 +0530 viveck-ThinkPad-E470 (17316)] INFO : Scout Agent [2.6.6] Installed
+[02/05/20 14:09:26 +0530 viveck-ThinkPad-E470 (17316)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/05/20 14:09:26 +0530 viveck-ThinkPad-E470 (17316)] INFO : Deferring agent start. Standing by for first request
+[02/07/20 00:39:14 +0530 viveck-ThinkPad-E470 (21157)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/07/20 00:39:14 +0530 viveck-ThinkPad-E470 (21157)] INFO : Scout Agent [2.6.6] Initialized
+[02/07/20 00:39:14 +0530 viveck-ThinkPad-E470 (21157)] INFO : Not Loading Instruments
+[02/07/20 00:39:14 +0530 viveck-ThinkPad-E470 (21157)] INFO : Scout Agent [2.6.6] Installed
+[02/07/20 00:39:14 +0530 viveck-ThinkPad-E470 (21157)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/07/20 00:39:14 +0530 viveck-ThinkPad-E470 (21157)] INFO : Deferring agent start. Standing by for first request
+[02/07/20 15:39:42 +0530 viveck-ThinkPad-E470 (5114)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/07/20 15:39:42 +0530 viveck-ThinkPad-E470 (5114)] INFO : Scout Agent [2.6.6] Initialized
+[02/07/20 15:39:42 +0530 viveck-ThinkPad-E470 (5114)] INFO : Not Loading Instruments
+[02/07/20 15:39:42 +0530 viveck-ThinkPad-E470 (5114)] INFO : Scout Agent [2.6.6] Installed
+[02/07/20 15:39:42 +0530 viveck-ThinkPad-E470 (5114)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/07/20 15:39:42 +0530 viveck-ThinkPad-E470 (5114)] INFO : Deferring agent start. Standing by for first request
+[02/13/20 13:09:55 +0530 viveck-ThinkPad-E470 (15211)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/13/20 13:09:55 +0530 viveck-ThinkPad-E470 (15211)] INFO : Scout Agent [2.6.6] Initialized
+[02/13/20 13:09:55 +0530 viveck-ThinkPad-E470 (15211)] INFO : Not Loading Instruments
+[02/13/20 13:09:55 +0530 viveck-ThinkPad-E470 (15211)] INFO : Scout Agent [2.6.6] Installed
+[02/13/20 13:09:55 +0530 viveck-ThinkPad-E470 (15211)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/13/20 13:09:55 +0530 viveck-ThinkPad-E470 (15211)] INFO : Deferring agent start. Standing by for first request
+[02/20/20 11:35:32 +0530 viveck-ThinkPad-E470 (14123)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[02/20/20 11:35:32 +0530 viveck-ThinkPad-E470 (14123)] INFO : Scout Agent [2.6.6] Initialized
+[02/20/20 11:35:32 +0530 viveck-ThinkPad-E470 (14123)] INFO : Not Loading Instruments
+[02/20/20 11:35:32 +0530 viveck-ThinkPad-E470 (14123)] INFO : Scout Agent [2.6.6] Installed
+[02/20/20 11:35:32 +0530 viveck-ThinkPad-E470 (14123)] INFO : Monitoring isn't enabled for the [development] environment.
+[02/20/20 11:35:32 +0530 viveck-ThinkPad-E470 (14123)] INFO : Deferring agent start. Standing by for first request
+[03/05/20 09:36:09 +0530 viveck-ThinkPad-E470 (22778)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[03/05/20 09:36:09 +0530 viveck-ThinkPad-E470 (22778)] INFO : Scout Agent [2.6.6] Initialized
+[03/05/20 09:36:09 +0530 viveck-ThinkPad-E470 (22778)] INFO : Not Loading Instruments
+[03/05/20 09:36:09 +0530 viveck-ThinkPad-E470 (22778)] INFO : Scout Agent [2.6.6] Installed
+[03/05/20 09:36:09 +0530 viveck-ThinkPad-E470 (22778)] INFO : Monitoring isn't enabled for the [development] environment.
+[03/05/20 09:36:09 +0530 viveck-ThinkPad-E470 (22778)] INFO : Deferring agent start. Standing by for first request
+[03/05/20 11:58:57 +0530 viveck-ThinkPad-E470 (6604)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[03/05/20 11:58:57 +0530 viveck-ThinkPad-E470 (6604)] INFO : Scout Agent [2.6.6] Initialized
+[03/05/20 11:58:57 +0530 viveck-ThinkPad-E470 (6604)] INFO : Not Loading Instruments
+[03/05/20 11:58:57 +0530 viveck-ThinkPad-E470 (6604)] INFO : Scout Agent [2.6.6] Installed
+[03/05/20 11:58:57 +0530 viveck-ThinkPad-E470 (6604)] INFO : Monitoring isn't enabled for the [development] environment.
+[03/05/20 11:58:57 +0530 viveck-ThinkPad-E470 (6604)] INFO : Deferring agent start. Standing by for first request
+[03/05/20 16:12:34 +0530 viveck-ThinkPad-E470 (4793)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[03/05/20 16:12:34 +0530 viveck-ThinkPad-E470 (4793)] INFO : Scout Agent [2.6.6] Initialized
+[03/05/20 16:12:34 +0530 viveck-ThinkPad-E470 (4793)] INFO : Not Loading Instruments
+[03/05/20 16:12:34 +0530 viveck-ThinkPad-E470 (4793)] INFO : Scout Agent [2.6.6] Installed
+[03/05/20 16:12:34 +0530 viveck-ThinkPad-E470 (4793)] INFO : Monitoring isn't enabled for the [development] environment.
+[03/05/20 16:12:34 +0530 viveck-ThinkPad-E470 (4793)] INFO : Deferring agent start. Standing by for first request
+[03/06/20 08:51:00 +0530 viveck-ThinkPad-E470 (12142)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[03/06/20 08:51:00 +0530 viveck-ThinkPad-E470 (12142)] INFO : Scout Agent [2.6.6] Initialized
+[03/06/20 08:51:00 +0530 viveck-ThinkPad-E470 (12142)] INFO : Not Loading Instruments
+[03/06/20 08:51:00 +0530 viveck-ThinkPad-E470 (12142)] INFO : Scout Agent [2.6.6] Installed
+[03/06/20 08:51:00 +0530 viveck-ThinkPad-E470 (12142)] INFO : Monitoring isn't enabled for the [development] environment.
+[03/06/20 08:51:00 +0530 viveck-ThinkPad-E470 (12142)] INFO : Deferring agent start. Standing by for first request
+[04/14/20 14:12:46 +0530 viveck-ThinkPad-E470 (18803)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[04/14/20 14:12:46 +0530 viveck-ThinkPad-E470 (18803)] INFO : Scout Agent [2.6.6] Initialized
+[04/14/20 14:12:46 +0530 viveck-ThinkPad-E470 (18803)] INFO : Not Loading Instruments
+[04/14/20 14:12:46 +0530 viveck-ThinkPad-E470 (18803)] INFO : Scout Agent [2.6.6] Installed
+[04/14/20 14:12:46 +0530 viveck-ThinkPad-E470 (18803)] INFO : Monitoring isn't enabled for the [development] environment.
+[04/14/20 14:12:46 +0530 viveck-ThinkPad-E470 (18803)] INFO : Deferring agent start. Standing by for first request
+[04/14/20 14:16:49 +0530 viveck-ThinkPad-E470 (24206)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[04/14/20 14:16:49 +0530 viveck-ThinkPad-E470 (24206)] INFO : Scout Agent [2.6.6] Initialized
+[04/14/20 14:16:49 +0530 viveck-ThinkPad-E470 (24206)] INFO : Not Loading Instruments
+[04/14/20 14:16:49 +0530 viveck-ThinkPad-E470 (24206)] INFO : Scout Agent [2.6.6] Installed
+[04/14/20 14:16:49 +0530 viveck-ThinkPad-E470 (24206)] INFO : Monitoring isn't enabled for the [development] environment.
+[04/14/20 14:16:49 +0530 viveck-ThinkPad-E470 (24206)] INFO : Deferring agent start. Standing by for first request
+[04/14/20 14:17:12 +0530 viveck-ThinkPad-E470 (24302)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[04/14/20 14:17:12 +0530 viveck-ThinkPad-E470 (24302)] INFO : Scout Agent [2.6.6] Initialized
+[04/14/20 14:17:12 +0530 viveck-ThinkPad-E470 (24302)] INFO : Not Loading Instruments
+[04/14/20 14:17:12 +0530 viveck-ThinkPad-E470 (24302)] INFO : Scout Agent [2.6.6] Installed
+[04/14/20 14:17:12 +0530 viveck-ThinkPad-E470 (24302)] INFO : Monitoring isn't enabled for the [development] environment.
+[04/14/20 14:17:12 +0530 viveck-ThinkPad-E470 (24302)] INFO : Deferring agent start. Standing by for first request
+[04/14/20 14:17:33 +0530 viveck-ThinkPad-E470 (24491)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[04/14/20 14:17:33 +0530 viveck-ThinkPad-E470 (24491)] INFO : Scout Agent [2.6.6] Initialized
+[04/14/20 14:17:33 +0530 viveck-ThinkPad-E470 (24491)] INFO : Not Loading Instruments
+[04/14/20 14:17:33 +0530 viveck-ThinkPad-E470 (24491)] INFO : Scout Agent [2.6.6] Installed
+[04/14/20 14:17:33 +0530 viveck-ThinkPad-E470 (24491)] INFO : Monitoring isn't enabled for the [development] environment.
+[04/14/20 14:17:33 +0530 viveck-ThinkPad-E470 (24491)] INFO : Deferring agent start. Standing by for first request
+[04/14/20 14:18:42 +0530 viveck-ThinkPad-E470 (25312)] INFO : No configuration file loaded, and no configuration found in ENV. For assistance configuring Scout, visit https://docs.scoutapm.com/#ruby-configuration-options
+[04/14/20 14:18:42 +0530 viveck-ThinkPad-E470 (25312)] INFO : Scout Agent [2.6.6] Initialized
+[04/14/20 14:18:42 +0530 viveck-ThinkPad-E470 (25312)] INFO : Not Loading Instruments
+[04/14/20 14:18:42 +0530 viveck-ThinkPad-E470 (25312)] INFO : Scout Agent [2.6.6] Installed
+[04/14/20 14:18:42 +0530 viveck-ThinkPad-E470 (25312)] INFO : Monitoring isn't enabled for the [development] environment.
+[04/14/20 14:18:42 +0530 viveck-ThinkPad-E470 (25312)] INFO : Deferring agent start. Standing by for first request
