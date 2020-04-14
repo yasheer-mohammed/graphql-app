@@ -33,3 +33,4 @@ yarn-debug.log*
 
 /config/database.yml
 tmp/pids/server.pid
+log/scout_apm.log
