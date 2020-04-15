@@ -44,6 +44,9 @@ gem 'prawn-table'
 
 gem 'cocoon', '~> 1.2', '>= 1.2.9'
 
+gem "graphql"
+
+
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a console
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
@@ -100,3 +103,5 @@ gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'mast
 gem 'database_cleaner', '~> 1.7'
 gem 'whirly', '~> 0.2.4'
 gem 'cancan', '~> 1.6', '>= 1.6.10'
+
+gem 'graphiql-rails', group: :development
