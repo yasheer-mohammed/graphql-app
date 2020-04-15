@@ -6,12 +6,7 @@ class UsersController < ApplicationController
   def index
     @users = User.all
     respond_to do |format|
-      if request.xhr?
-        format.html
-        format.json
-      else
-        format.html
-      end
+      format.html
     end
   end
 
