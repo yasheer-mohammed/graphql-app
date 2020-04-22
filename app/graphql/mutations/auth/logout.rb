@@ -4,7 +4,6 @@ module Mutations
       type Boolean, null: false
 
       def resolve
-        byebug
         context[:current_user].api_keys.each {|api_key| api_key.expire}
         return true
       end
