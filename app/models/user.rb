@@ -5,6 +5,7 @@ class User < ApplicationRecord
          :recoverable, :rememberable, :validatable
 
   has_many :api_keys
+  has_many :posts
 
   after_commit :generate_api_key  
 
